@@ -1,6 +1,15 @@
 # BIA
 An educational Jupyter notebook for learning Interaction Analysis.
 
+
+### Install
+Retrieve required packages with:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+### References
 [1] Beyond co-localization: inferring spatial interactions between sub-cellular structures from microscopy images  
     Jo A. Helmuth, Grégory Paul and Ivo F. Sbalzarini  
     BMC Bioinformatics 2010 11:372  
